@@ -1,16 +1,41 @@
 {
   "files": {
-    "main.css": "/https.JRO56.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/https.JRO56.github.io/static/js/main.ebad8518.js",
+    "main.css": "/https.JRO56.github.io/static/css/main.7e4b2dbc.css",
+    "main.js": "/https.JRO56.github.io/static/js/main.a0426721.js",
+    "reactPlayerHls.js": "/https.JRO56.github.io/static/js/reactPlayerHls.31d1f334.chunk.js",
+    "reactPlayerDash.js": "/https.JRO56.github.io/static/js/reactPlayerDash.a936aeaf.chunk.js",
+    "reactPlayerMux.js": "/https.JRO56.github.io/static/js/reactPlayerMux.d9e09779.chunk.js",
+    "reactPlayerYouTube.js": "/https.JRO56.github.io/static/js/reactPlayerYouTube.ecfb123f.chunk.js",
+    "reactPlayerVimeo.js": "/https.JRO56.github.io/static/js/reactPlayerVimeo.8d1f84bc.chunk.js",
+    "reactPlayerWistia.js": "/https.JRO56.github.io/static/js/reactPlayerWistia.70829bbd.chunk.js",
+    "reactPlayerSpotify.js": "/https.JRO56.github.io/static/js/reactPlayerSpotify.26a69943.chunk.js",
+    "reactPlayerTwitch.js": "/https.JRO56.github.io/static/js/reactPlayerTwitch.878b69b1.chunk.js",
+    "reactPlayerTiktok.js": "/https.JRO56.github.io/static/js/reactPlayerTiktok.eaed1c91.chunk.js",
+    "reactPlayerPreview.js": "/https.JRO56.github.io/static/js/reactPlayerPreview.f751121d.chunk.js",
     "static/js/453.7647bc1d.chunk.js": "/https.JRO56.github.io/static/js/453.7647bc1d.chunk.js",
-    "static/media/logo.svg": "/https.JRO56.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/js/416.078472ef.chunk.js": "/https.JRO56.github.io/static/js/416.078472ef.chunk.js",
+    "static/js/365.f7dfc86a.chunk.js": "/https.JRO56.github.io/static/js/365.f7dfc86a.chunk.js",
+    "static/js/788.1bae114b.chunk.js": "/https.JRO56.github.io/static/js/788.1bae114b.chunk.js",
     "index.html": "/https.JRO56.github.io/index.html",
-    "main.f855e6bc.css.map": "/https.JRO56.github.io/static/css/main.f855e6bc.css.map",
-    "main.ebad8518.js.map": "/https.JRO56.github.io/static/js/main.ebad8518.js.map",
-    "453.7647bc1d.chunk.js.map": "/https.JRO56.github.io/static/js/453.7647bc1d.chunk.js.map"
+    "main.7e4b2dbc.css.map": "/https.JRO56.github.io/static/css/main.7e4b2dbc.css.map",
+    "main.a0426721.js.map": "/https.JRO56.github.io/static/js/main.a0426721.js.map",
+    "reactPlayerHls.31d1f334.chunk.js.map": "/https.JRO56.github.io/static/js/reactPlayerHls.31d1f334.chunk.js.map",
+    "reactPlayerDash.a936aeaf.chunk.js.map": "/https.JRO56.github.io/static/js/reactPlayerDash.a936aeaf.chunk.js.map",
+    "reactPlayerMux.d9e09779.chunk.js.map": "/https.JRO56.github.io/static/js/reactPlayerMux.d9e09779.chunk.js.map",
+    "reactPlayerYouTube.ecfb123f.chunk.js.map": "/https.JRO56.github.io/static/js/reactPlayerYouTube.ecfb123f.chunk.js.map",
+    "reactPlayerVimeo.8d1f84bc.chunk.js.map": "/https.JRO56.github.io/static/js/reactPlayerVimeo.8d1f84bc.chunk.js.map",
+    "reactPlayerWistia.70829bbd.chunk.js.map": "/https.JRO56.github.io/static/js/reactPlayerWistia.70829bbd.chunk.js.map",
+    "reactPlayerSpotify.26a69943.chunk.js.map": "/https.JRO56.github.io/static/js/reactPlayerSpotify.26a69943.chunk.js.map",
+    "reactPlayerTwitch.878b69b1.chunk.js.map": "/https.JRO56.github.io/static/js/reactPlayerTwitch.878b69b1.chunk.js.map",
+    "reactPlayerTiktok.eaed1c91.chunk.js.map": "/https.JRO56.github.io/static/js/reactPlayerTiktok.eaed1c91.chunk.js.map",
+    "reactPlayerPreview.f751121d.chunk.js.map": "/https.JRO56.github.io/static/js/reactPlayerPreview.f751121d.chunk.js.map",
+    "453.7647bc1d.chunk.js.map": "/https.JRO56.github.io/static/js/453.7647bc1d.chunk.js.map",
+    "416.078472ef.chunk.js.map": "/https.JRO56.github.io/static/js/416.078472ef.chunk.js.map",
+    "365.f7dfc86a.chunk.js.map": "/https.JRO56.github.io/static/js/365.f7dfc86a.chunk.js.map",
+    "788.1bae114b.chunk.js.map": "/https.JRO56.github.io/static/js/788.1bae114b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ebad8518.js"
+    "static/css/main.7e4b2dbc.css",
+    "static/js/main.a0426721.js"
   ]
 }
